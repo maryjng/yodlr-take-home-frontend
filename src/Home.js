@@ -5,7 +5,7 @@ function Home() {
     <div>
       <h1>Home</h1>
       <nav>
-        <Link to="/">Home</Link> |{" "}
+        {/* <Link to="/">Home</Link> |{" "} */}
         <Link to="/users">Users</Link> |{" "}
         <Link to="/register">Register</Link>
       </nav>
